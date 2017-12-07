@@ -1,0 +1,18 @@
+SMAP
+teamreport_jsp.java
+JSP
+*S JSP
+*F
++ 0 teamreport.jsp
+teamreport.jsp
+*L
+1,2:43
+7:45
+10,13:46
+23,10:60
+32,23:70
+56,18:95
+73,3:113
+75,11:116
+85,13:127
+*E
